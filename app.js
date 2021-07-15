@@ -184,5 +184,5 @@ function filterTasks(e){
 }
 
 
-//********** TASK LIST APLICATION IS DONE **********
+//********** TASK LIST APPLICATION IS DONE **********
 
